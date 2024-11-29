@@ -11,26 +11,26 @@
 <body>
     <div class="container-fluid py-3">
         <div class="row">
-            <?php /* <div class="col-md-3 align-self-center align-items-center text-center">
-                <img src="https://placehold.co/100" class="img-fluid mt-5 rounded-circle" alt="Sandip Tawhare">
-            </div> */ ?>
-            <div class="col-md-12">
+            <?php /* echo '<div class="col-1 align-self-center align-items-center text-center">
+                <img src="https://placehold.co/100" class="img-fluid rounded-circle" alt="Sandip Tawhare">
+            </div>' */ ?>
+            <div class="col-12">
                 <h1 class="text-center fs-3">Sandip Baliram Tawhare</h1>
                 <p class="text-center">
-                    <span class="fa fa-map-marker"></span> <b>Address:</b> Betvasti, Nirgudsar, Ambegaon, Pune,
-                    Maharastra - 412406
-                    <br>
                     <span class="fa fa-phone"></span> <!-- <b>Contact:</b> --> <a target="_blank"
                         href="tel:+91 9527849688">+91
                         9527849688</a> | <span class="fa fa-envelope"></span> <a target="_blank"
-                        href="mailto:sandiptahware18081998@gmail.com">sandiptahware18081998@gmail.com</a> | <span
+                        href="mailto:sandiptahware18081998@gmail.com">sandiptahware18081998@gmail.com</a> <!-- | <span
                         class="fa fa-globe"></span> <a target="_blank"
-                        href="https://codersandip.github.io">https://codersandip.github.io</a>
+                        href="https://codersandip.github.io">https://codersandip.github.io</a> -->
                     <br>
                     <span class="fa fa-linkedin"></span> <a target="_blank"
                         href="https://in.linkedin.com/in/sandip-tawhare-coder">https://in.linkedin.com/in/sandip-tawhare-coder</a>
                     | <span class="fa fa-github"></span> <a target="_blank"
-                        href="https://github.com/codersandip">https://github.com/codersandip</a>
+                        href="https://github.com/codersandip">https://github.com/codersandip</a> <br>
+                        <span class="fa fa-map-marker"></span> <b>Address:</b> Betvasti, Nirgudsar, Ambegaon, Pune,
+                    Maharastra - 412406
+                    <br>
                 </p>
             </div>
         </div>
@@ -231,7 +231,7 @@
                             <p>
                                 <b>Carselonadaily</b> (Duration: 4.5 months) <br>
                                 Carselonadaily trains all of their team to use the right cleaning products with a
-                                microfiber cloth, pressure washer and correct wheel care to truly maintain your
+                                microfiber cloth, pressure washer and correct wheel care to truly maintain your 
                                 vehicle.<br>
                                 <b>Skills:</b> <b>Sails Js, Node JS, MySQL, Git, JavaScript, HTML, CSS,
                                     Bootstrap, Jquery, Ubuntu Server, EC2</b>

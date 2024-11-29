@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/css/bootstrap.min.css');
+
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f3f3f3;
@@ -46,6 +50,6 @@ a {
     body {
         /* box-sizing: border-box; */
         background-color: #fff;
-        border: 1px double #000;
+        /* border: 1px double #000; */
     }
 }

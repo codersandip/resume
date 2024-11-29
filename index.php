@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div class="container-fluid py-3">
+    <div class="container-fluid py-4">
         <div class="row">
             <?php /* echo '<div class="col-1 align-self-center align-items-center text-center">
                 <img src="https://placehold.co/100" class="img-fluid rounded-circle" alt="Sandip Tawhare">

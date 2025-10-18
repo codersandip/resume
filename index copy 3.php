@@ -87,24 +87,29 @@
             font-size: 0.9em;
         }
 
-        /* --- Updated Skills Section Styles (Simplified) --- */
+        /* --- Updated Skills Section Styles --- */
         .skills-category {
             margin-bottom: 15px;
         }
         .skills-category strong {
-            display: inline-block; /* Changed to inline-block */
-            margin-right: 10px; /* Space after category title */
+            display: block;
+            margin-bottom: 8px;
             color: #34495e;
             font-size: 1.05em;
-            white-space: nowrap; /* Keep title on one line */
         }
-        .skill-list-inline {
-            display: inline; /* Keep skills on the same line as the strong tag */
+        .skill-list-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px; /* Space between skill tags */
+        }
+        .skill-tag {
+            background-color: #e9f5ff; /* Light blue background for tags */
+            color: #2980b9; /* Darker blue text for tags */
+            padding: 5px 12px;
+            border-radius: 4px;
             font-size: 0.9em;
-            color: #555;
-        }
-        .skill-list-inline span:not(:last-child):after {
-            content: ', '; /* Add comma separator */
+            white-space: nowrap; /* Keep skill names on one line */
+            border: 1px solid #cce8ff;
         }
         /* --- End Updated Skills Section Styles --- */
 
@@ -114,9 +119,9 @@
         .education-item p {
             margin: 0;
         }
-        /* .education-item strong {
+        .education-item strong {
             display: block;
-        } */
+        }
     </style>
 </head>
 <body>
@@ -146,71 +151,105 @@
         <h2>Skills</h2>
         <div class="skills-category">
             <strong>Programming Languages:</strong>
-            <div class="skill-list-inline">
-                <span>PHP</span><span>MySQL</span><span>HTML</span><span>CSS</span><span>JavaScript</span><span>Node.js</span><span>React.js</span>
+            <div class="skill-list-tags">
+                <span class="skill-tag">PHP</span>
+                <span class="skill-tag">MySQL</span>
+                <span class="skill-tag">HTML</span>
+                <span class="skill-tag">CSS</span>
+                <span class="skill-tag">JavaScript</span>
+                <span class="skill-tag">Node.js</span>
+                <span class="skill-tag">React.js</span>
             </div>
         </div>
 
         <div class="skills-category">
             <strong>Frameworks:</strong>
-            <div class="skill-list-inline">
-                <span>Laravel</span><span>CodeIgniter</span><span>Bootstrap</span><span>Tailwind CSS</span><span>Sails.js</span><span>Vue.js</span>
+            <div class="skill-list-tags">
+                <span class="skill-tag">Laravel</span>
+                <span class="skill-tag">CodeIgniter</span>
+                <span class="skill-tag">Bootstrap</span>
+                <span class="skill-tag">Tailwind CSS</span>
+                <span class="skill-tag">Sails.js</span>
+                <span class="skill-tag">Vue.js</span>
             </div>
         </div>
 
         <div class="skills-category">
-            <strong>System Design & Architecture:</strong>
-            <div class="skill-list-inline">
-                <span>Microservices</span><span>Monolithic Architectures</span><span>RESTful API Design</span><span>Scalability</span><span>High Availability</span><span>Load Balancing</span><span>Database Sharding</span><span>Caching Strategies</span>
-            </div>
-        </div>
-
-        <div class="skills-category">
-            <strong>DevOps Engineering:</strong>
-            <div class="skill-list-inline">
-                <span>CI/CD Pipelines (GitHub Actions, Jenkins)</span><span>Containerization (Docker)</span><span>Orchestration (Kubernetes)</span><span>Infrastructure as Code (Terraform)</span><span>Monitoring (Prometheus, Grafana)</span><span>Logging (ELK Stack)</span>
-            </div>
-        </div>
-
-        <div class="skills-category">
-            <strong>Tools & Platforms:</strong>
-            <div class="skill-list-inline">
-                <span>Git</span><span>Composer</span><span>NPM</span><span>VSCode</span><span>Postman</span><span>Chrome DevTools</span><span>XAMPP</span><span>MySQL Workbench</span><span>phpMyAdmin</span><span>Robo 3T</span><span>FileZilla</span><span>Apache</span><span>Nginx</span><span>Ubuntu</span><span>Laravel Mix</span><span>Redis</span>
+            <strong>Tools:</strong>
+            <div class="skill-list-tags">
+                <span class="skill-tag">Git</span>
+                <span class="skill-tag">Composer</span>
+                <span class="skill-tag">NPM</span>
+                <span class="skill-tag">VSCode</span>
+                <span class="skill-tag">Postman</span>
+                <span class="skill-tag">Chrome DevTools</span>
+                <span class="skill-tag">XAMPP</span>
+                <span class="skill-tag">MySQL Workbench</span>
+                <span class="skill-tag">phpMyAdmin</span>
+                <span class="skill-tag">Robo 3T</span>
+                <span class="skill-tag">FileZilla</span>
+                <span class="skill-tag">Apache</span>
+                <span class="skill-tag">Nginx</span>
+                <span class="skill-tag">Ubuntu</span>
+                <span class="skill-tag">Laravel Mix</span>
+                <span class="skill-tag">Redis</span>
+                <span class="skill-tag">GitHub Actions</span>
+                <span class="skill-tag">Bitbucket</span>
+                <span class="skill-tag">Jenkins</span>
             </div>
         </div>
 
         <div class="skills-category">
             <strong>Databases:</strong>
-            <div class="skill-list-inline">
-                <span>MySQL</span><span>MongoDB</span>
+            <div class="skill-list-tags">
+                <span class="skill-tag">MySQL</span>
+                <span class="skill-tag">MongoDB</span>
             </div>
         </div>
 
         <div class="skills-category">
             <strong>Operating Systems:</strong>
-            <div class="skill-list-inline">
-                <span>Windows 10</span><span>Linux</span>
+            <div class="skill-list-tags">
+                <span class="skill-tag">Windows 10</span>
+                <span class="skill-tag">Linux</span>
             </div>
         </div>
 
         <div class="skills-category">
             <strong>Version Control:</strong>
-            <div class="skill-list-inline">
-                <span>Git</span><span>GitHub</span><span>GitLab</span><span>Bitbucket</span>
+            <div class="skill-list-tags">
+                <span class="skill-tag">Git</span>
+                <span class="skill-tag">GitHub</span>
+                <span class="skill-tag">GitLab</span>
+                <span class="skill-tag">Bitbucket</span>
             </div>
         </div>
 
         <div class="skills-category">
             <strong>Deployment Tools:</strong>
-            <div class="skill-list-inline">
-                <span>Putty</span><span>FileZilla</span><span>SSH</span><span>FTP</span><span>SFTP</span>
+            <div class="skill-list-tags">
+                <span class="skill-tag">Putty</span>
+                <span class="skill-tag">FileZilla</span>
+                <span class="skill-tag">SSH</span>
+                <span class="skill-tag">FTP</span>
+                <span class="skill-tag">SFTP</span>
             </div>
         </div>
 
         <div class="skills-category">
             <strong>Cloud Services:</strong>
-            <div class="skill-list-inline">
-                <span>AWS (EC2, S3, RDS, Lambda, CloudFront, ELB, Route 53)</span><span>Digital Ocean (Droplets)</span><span>Cloudflare (DNS, CDN, SSL)</span>
+            <div class="skill-list-tags">
+                <span class="skill-tag">AWS (EC2)</span>
+                <span class="skill-tag">AWS (S3)</span>
+                <span class="skill-tag">AWS (RDS)</span>
+                <span class="skill-tag">AWS (Lambda)</span>
+                <span class="skill-tag">AWS (CloudFront)</span>
+                <span class="skill-tag">AWS (ELB)</span>
+                <span class="skill-tag">AWS (Route 53)</span>
+                <span class="skill-tag">Digital Ocean (Droplets)</span>
+                <span class="skill-tag">Cloudflare (DNS)</span>
+                <span class="skill-tag">Cloudflare (CDN)</span>
+                <span class="skill-tag">Cloudflare (SSL)</span>
             </div>
         </div>
     </section>

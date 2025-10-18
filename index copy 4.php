@@ -114,9 +114,9 @@
         .education-item p {
             margin: 0;
         }
-        /* .education-item strong {
+        .education-item strong {
             display: block;
-        } */
+        }
     </style>
 </head>
 <body>
@@ -134,7 +134,7 @@
 
     <section>
         <h2>Professional Summary</h2>
-        <p>Highly passionate and results-driven Laravel Developer with 6 years of experience in designing, developing, and maintaining robust web applications. Proven expertise in Laravel, PHP, MySQL, HTML, CSS, and JavaScript. Adept at API integration, database optimization, and ensuring scalable solutions. Consistently deliver high-quality code, meet project deadlines, and thrive in collaborative, dynamic team environments.</p>
+        <p>Highly passionate and results-driven Laravel Developer with 7 years of experience in designing, developing, System Architecture, System Design and maintaining robust web applications. Proven expertise in Laravel, PHP, MySQL, HTML, CSS, and JavaScript. Adept at API integration, database optimization, and ensuring scalable solutions. Consistently deliver high-quality code, meet project deadlines, and thrive in collaborative, dynamic team environments.</p>
     </section>
 
     <section>
@@ -159,23 +159,9 @@
         </div>
 
         <div class="skills-category">
-            <strong>System Design & Architecture:</strong>
-            <div class="skill-list-inline">
-                <span>Microservices</span><span>Monolithic Architectures</span><span>RESTful API Design</span><span>Scalability</span><span>High Availability</span><span>Load Balancing</span><span>Database Sharding</span><span>Caching Strategies</span>
-            </div>
-        </div>
-
-        <div class="skills-category">
-            <strong>DevOps Engineering:</strong>
-            <div class="skill-list-inline">
-                <span>CI/CD Pipelines (GitHub Actions, Jenkins)</span><span>Containerization (Docker)</span><span>Orchestration (Kubernetes)</span><span>Infrastructure as Code (Terraform)</span><span>Monitoring (Prometheus, Grafana)</span><span>Logging (ELK Stack)</span>
-            </div>
-        </div>
-
-        <div class="skills-category">
             <strong>Tools & Platforms:</strong>
             <div class="skill-list-inline">
-                <span>Git</span><span>Composer</span><span>NPM</span><span>VSCode</span><span>Postman</span><span>Chrome DevTools</span><span>XAMPP</span><span>MySQL Workbench</span><span>phpMyAdmin</span><span>Robo 3T</span><span>FileZilla</span><span>Apache</span><span>Nginx</span><span>Ubuntu</span><span>Laravel Mix</span><span>Redis</span>
+                <span>Git</span><span>Composer</span><span>NPM</span><span>VSCode</span><span>Postman</span><span>Chrome DevTools</span><span>XAMPP</span><span>MySQL Workbench</span><span>phpMyAdmin</span><span>Robo 3T</span><span>FileZilla</span><span>Apache</span><span>Nginx</span><span>Ubuntu</span><span>Laravel Mix</span><span>Redis</span><span>GitHub Actions</span><span>Bitbucket</span><span>Jenkins</span>
             </div>
         </div>
 

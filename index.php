@@ -284,7 +284,7 @@
         <h2>Projects</h2>
 
         <div class="project-item">
-            <h3>Youhonk <small>| Duration: 9 months</small></h3>
+            <h3>Youhonk <small>| Duration: 11 months</small></h3>
             <p><strong>Technologies:</strong> Laravel 8, MySQL, Vue.js, Git, Bitbucket, AWS EC2, S3, Lambda Functions, Ubuntu Server, Nginx, Apache</p>
             <ul>
                 <li>Developed a mobile-based web application connecting vehicle owners with nearby mechanics and service shops, enabling budget-friendly service comparisons and bookings.</li>

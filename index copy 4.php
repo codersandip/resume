@@ -205,7 +205,7 @@
         <h2>Professional Experience</h2>
 
         <div class="experience-item">
-            <h3>Vioron Internet Pvt Ltd <small>| April 2024 – January 2025</small></h3>
+            <h3>Vioron Internet Pvt Ltd <small>|  January 2025 - Present </small></h3>
             <p><strong>Software Development Engineer</strong></p>
             <ul>
                 <li>Built secure and scalable APIs for mobile and web clients using Laravel 8 and MySQL.</li>

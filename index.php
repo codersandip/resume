@@ -449,7 +449,6 @@
         window.onload = function() {
             if (new URL(window.location.href).searchParams.get('export') == 'print') {
                 window.print();
-                window.close();
             }
         };
     </script>

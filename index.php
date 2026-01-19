@@ -134,7 +134,8 @@
 
     <section>
         <h2>Professional Summary</h2>
-        <p>Highly passionate and results-driven Laravel Developer with 6 years of experience in designing, developing, and maintaining robust web applications. Proven expertise in Laravel, PHP, MySQL, HTML, CSS, and JavaScript. Adept at API integration, database optimization, and ensuring scalable solutions. Consistently deliver high-quality code, meet project deadlines, and thrive in collaborative, dynamic team environments.</p>
+        <!-- <p>Highly passionate and results-driven Laravel Developer with 6 years of experience in designing, developing, and maintaining robust web applications. Proven expertise in Laravel, PHP, MySQL, HTML, CSS, and JavaScript. Adept at API integration, database optimization, and ensuring scalable solutions. Consistently deliver high-quality code, meet project deadlines, and thrive in collaborative, dynamic team environments.</p> -->
+        <p>Senior Laravel Developer with 6+ years of experience designing and delivering scalable, secure, and high-performance web applications. Strong expertise in Laravel, PHP, MySQL, REST APIs, AWS, and CI/CD pipelines. Proven ability to optimize database performance, build enterprise-grade systems, and deploy production applications on cloud infrastructure. Experienced across EdTech, Insurance, SaaS, and Media domains.</p>
     </section>
 
     <section>
@@ -143,7 +144,7 @@
     </section>
 
     <section>
-        <h2>Skills</h2>
+        <h2>Core Skills</h2>
         <div class="skills-category">
             <strong>Programming Languages:</strong>
             <div class="skill-list-inline">
@@ -214,6 +215,78 @@
             </div>
         </div>
     </section>
+    <!-- <section>
+        <h2>Core Skills</h2>
+        <div class="skills-category">
+            <strong>Programming Languages:</strong>
+            <div class="skill-list-inline">
+                <span>PHP</span><span>MySQL</span><span>HTML</span><span>CSS</span><span>JavaScript</span><span>Node.js</span><span>React.js</span>
+            </div>
+        </div>
+
+        <div class="skills-category">
+            <strong>Frameworks:</strong>
+            <div class="skill-list-inline">
+                <span>Laravel</span><span>CodeIgniter</span><span>Bootstrap</span><span>Tailwind CSS</span><span>Sails.js</span><span>Vue.js</span>
+            </div>
+        </div>
+
+        <div class="skills-category">
+            <strong>System Design & Architecture:</strong>
+            <div class="skill-list-inline">
+                <span>Microservices</span><span>Monolithic Architectures</span><span>RESTful API Design</span><span>Scalability</span><span>High Availability</span><span>Load Balancing</span><span>Database Sharding</span><span>Caching Strategies</span>
+            </div>
+        </div>
+
+        <div class="skills-category">
+            <strong>DevOps Engineering:</strong>
+            <div class="skill-list-inline">
+                <span>CI/CD Pipelines (GitHub Actions, Jenkins)</span><span>Containerization (Docker)</span><span>Orchestration (Kubernetes)</span><span>Infrastructure as Code (Terraform)</span><span>Monitoring (Prometheus, Grafana)</span><span>Logging (ELK Stack)</span>
+            </div>
+        </div>
+
+        <div class="skills-category">
+            <strong>Tools & Platforms:</strong>
+            <div class="skill-list-inline">
+                <span>Git</span><span>Composer</span><span>NPM</span><span>VSCode</span><span>Postman</span><span>Chrome DevTools</span><span>XAMPP</span><span>MySQL Workbench</span><span>phpMyAdmin</span><span>Robo 3T</span><span>FileZilla</span><span>Apache</span><span>Nginx</span><span>Ubuntu</span><span>Laravel Mix</span><span>Redis</span>
+            </div>
+        </div>
+
+        <div class="skills-category">
+            <strong>Databases:</strong>
+            <div class="skill-list-inline">
+                <span>MySQL</span><span>MongoDB</span>
+            </div>
+        </div>
+
+        <div class="skills-category">
+            <strong>Operating Systems:</strong>
+            <div class="skill-list-inline">
+                <span>Windows 10</span><span>Linux</span>
+            </div>
+        </div>
+
+        <div class="skills-category">
+            <strong>Version Control:</strong>
+            <div class="skill-list-inline">
+                <span>Git</span><span>GitHub</span><span>GitLab</span><span>Bitbucket</span>
+            </div>
+        </div>
+
+        <div class="skills-category">
+            <strong>Deployment Tools:</strong>
+            <div class="skill-list-inline">
+                <span>Putty</span><span>FileZilla</span><span>SSH</span><span>FTP</span><span>SFTP</span>
+            </div>
+        </div>
+
+        <div class="skills-category">
+            <strong>Cloud Services:</strong>
+            <div class="skill-list-inline">
+                <span>AWS (EC2, S3, RDS, Lambda, CloudFront, ELB, Route 53)</span><span>Digital Ocean (Droplets)</span><span>Cloudflare (DNS, CDN, SSL)</span>
+            </div>
+        </div>
+    </section> -->
 
     <section>
         <h2>Professional Experience</h2>
@@ -372,6 +445,13 @@
             P. J. N. Vidyalaya, Nirgudsar | Percentage: 65.60%</p>
         </div>
     </section>
-
+    <script>
+        window.onload = function() {
+            if (new URL(window.location.href).searchParams.get('export') == 'print') {
+                window.print();
+                window.close();
+            }
+        };
+    </script>
 </body>
 </html>

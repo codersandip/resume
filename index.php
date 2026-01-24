@@ -28,6 +28,7 @@
             border-bottom: 2px solid #3498db;
             padding-bottom: 5px;
             margin-top: 30px;
+            margin-top: 1px !important;
         }
         h3 {
             font-size: 1.2em;
@@ -36,6 +37,7 @@
         .contact-info {
             text-align: center;
             margin-bottom: 20px;
+            margin-bottom:5px;
             font-size: 0.9em;
             color: #555;
         }
@@ -52,6 +54,7 @@
         }
         section {
             margin-bottom: 25px;
+            margin-bottom: 10px;
         }
         ul {
             list-style-type: none;
@@ -70,6 +73,7 @@
         }
         .experience-item, .project-item {
             margin-bottom: 20px;
+            margin-bottom: 0px;
         }
         .experience-item h3, .project-item h3 {
             margin-bottom: 5px;
@@ -90,6 +94,7 @@
         /* --- Updated Skills Section Styles (Simplified) --- */
         .skills-category {
             margin-bottom: 15px;
+            margin-bottom: 5px;
         }
         .skills-category strong {
             display: inline-block; /* Changed to inline-block */
@@ -110,6 +115,7 @@
 
         .education-item {
             margin-bottom: 15px;
+            margin-bottom: 5px;
         }
         .education-item p {
             margin: 0;
@@ -126,8 +132,8 @@
         <div class="contact-info">
             <span>+91 9527849688</span> |
             <span><a href="mailto:sandiptahware18081998@gmail.com">sandiptahware18081998@gmail.com</a></span> |
-            <span><a href="https://in.linkedin.com/in/sandip-tawhare-coder" target="_blank">LinkedIn</a></span> |
-            <span><a href="https://github.com/codersandip" target="_blank">GitHub</a></span><br>
+            <span><a href="https://in.linkedin.com/in/sandip-tawhare-coder" target="_blank"><!-- LinkedIn -->sandip-tawhare-coder</a></span> |
+            <span><a href="https://github.com/codersandip" target="_blank"><!-- GitHub -->codersandip</a></span><br>
             <span>Betvasti, Nirgudsar, Ambegaon, Pune, Maharashtra - 412406</span>
         </div>
     </header>

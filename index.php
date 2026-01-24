@@ -132,8 +132,8 @@
         <div class="contact-info">
             <span>+91 9527849688</span> |
             <span><a href="mailto:sandiptahware18081998@gmail.com">sandiptahware18081998@gmail.com</a></span> |
-            <span><a href="https://in.linkedin.com/in/sandip-tawhare-coder" target="_blank"><!-- LinkedIn -->sandip-tawhare-coder</a></span> |
-            <span><a href="https://github.com/codersandip" target="_blank"><!-- GitHub -->codersandip</a></span><br>
+            <span><a href="https://in.linkedin.com/in/sandip-tawhare-coder" target="_blank"><img src="https://in.linkedin.com/favicon.ico" style="width: 16px; height: 16px;"> <!-- LinkedIn -->sandip-tawhare-coder</a></span> |
+            <span><a href="https://github.com/codersandip" target="_blank"><!-- GitHub --> <img src="https://www.github.com/favicon.ico" style="width: 16px; height: 16px;"> codersandip</a></span><br>
             <span>Betvasti, Nirgudsar, Ambegaon, Pune, Maharashtra - 412406</span>
         </div>
     </header>
@@ -299,7 +299,7 @@
 
         <div class="experience-item">
             <h3>Vioron Internet Pvt Ltd <small>|  January 2025 - Present </small></h3>
-            <p><strong>Software Development Engineer</strong></p>
+            <p><strong>Software Development Engineer (Laravel / PHP Backend)</strong></p>
             <ul>
                 <li>Built secure and scalable APIs for mobile and web clients using Laravel 8 and MySQL.</li>
                 <li>Implemented Queue Jobs and Task Scheduling to automate background processes (e.g., sending emails, notifications, and image optimization).</li>
@@ -432,8 +432,9 @@
         <h2>Education</h2>
 
         <div class="education-item">
-            <p><strong>Bachelor of Computer Engineering</strong> (Pursuing - Second Year)<br>
-            Rajiv Gandhi College of Engineering, Pune</p>
+            <p><strong>Bachelor of Computer Engineering</strong> In Progress<br>
+            Rajiv Gandhi College of Engineering, Pune <br>
+            Expected Graduation: 2027</p>
         </div>
 
         <div class="education-item">

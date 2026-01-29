@@ -132,8 +132,9 @@
         <div class="contact-info">
             <span>+91 9527849688</span> |
             <span><a href="mailto:sandiptahware18081998@gmail.com">sandiptahware18081998@gmail.com</a></span> |
-            <span><a href="https://in.linkedin.com/in/sandip-tawhare-coder" target="_blank"><img src="https://in.linkedin.com/favicon.ico" style="width: 16px; height: 16px;"> <!-- LinkedIn -->sandip-tawhare-coder</a></span> |
-            <span><a href="https://github.com/codersandip" target="_blank"><!-- GitHub --> <img src="https://www.github.com/favicon.ico" style="width: 16px; height: 16px;"> codersandip</a></span><br>
+            <span><a href="https://www.sandiptawhare.com" target="_blank">https://www.sandiptawhare.com</a></span> |
+            <!-- <span><a href="https://in.linkedin.com/in/sandip-tawhare-coder" target="_blank"><img src="https://in.linkedin.com/favicon.ico" style="width: 16px; height: 16px;"> LinkedInsandip-tawhare-coder</a></span> | -->
+            <!-- <span><a href="https://github.com/codersandip" target="_blank">GitHub <img src="https://www.github.com/favicon.ico" style="width: 16px; height: 16px;"> codersandip</a></span><br> -->
             <span>Betvasti, Nirgudsar, Ambegaon, Pune, Maharashtra - 412406</span>
         </div>
     </header>

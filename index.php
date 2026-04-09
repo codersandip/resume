@@ -88,7 +88,7 @@
             margin-bottom: 10px;
         }
         .experience-item ul li, .project-item ul li {
-            font-size: 0.9em;
+            /* font-size: 0.9em; */
         }
 
         /* --- Updated Skills Section Styles (Simplified) --- */

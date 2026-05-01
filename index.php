@@ -141,8 +141,7 @@
 
     <section>
         <h2>Professional Summary</h2>
-        <!-- <p>Highly passionate and results-driven Laravel Developer with 6 years of experience in designing, developing, and maintaining robust web applications. Proven expertise in Laravel, PHP, MySQL, HTML, CSS, and JavaScript. Adept at API integration, database optimization, and ensuring scalable solutions. Consistently deliver high-quality code, meet project deadlines, and thrive in collaborative, dynamic team environments.</p> -->
-        <p>Senior Laravel Developer with 6+ years of experience designing and delivering scalable, secure, and high-performance web applications. Strong expertise in Laravel, PHP, MySQL, REST APIs, AWS, and CI/CD pipelines. Proven ability to optimize database performance, build enterprise-grade systems, and deploy production applications on cloud infrastructure. Experienced across EdTech, Insurance, SaaS, and Media domains.</p>
+        <p>Senior backend engineer with <strong>7+ years</strong> of hands-on experience designing, building, and scaling high-performance systems with <strong>Laravel, PHP, and modern cloud-native tooling</strong>. Proven track record shipping production-grade APIs, payment integrations, audit & compliance frameworks, and DevOps automation that reduce time-to-market and operational cost. Active open-source maintainer of multiple Laravel packages used by the community.</p>
     </section>
 
     <section>
@@ -426,6 +425,52 @@
                 <li>Developed and maintained a professional car care and detailing platform.</li>
                 <li>Managed the application backend with Sails.js and Node.js, hosted on AWS EC2 for performance and scalability.</li>
             </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>Featured Open Source Projects <a href="https://github.com/codersandip" target="_blank" style="font-size: 0.6em; font-weight: normal; text-decoration: none; color: #3498db;">(@codersandip)</a></h2>
+        
+        <div class="project-item" data-repo="laravel-api-toolkit">
+            <h3>Laravel API Toolkit</h3>
+            <p>Production-ready API scaffolding for Laravel — standardized JSON envelope, exception → HTTP mapper, query filters & sorters, Sanctum-ready auth helpers.</p>
+            <p style="margin-top: 5px; font-size: 0.9em; color: #555;"><svg height="14" width="14" viewBox="0 0 16 16" style="vertical-align: text-bottom; margin-right: 4px;" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>https://github.com/codersandip/laravel-api-toolkit</p>
+        </div>
+
+        <div class="project-item" data-repo="laravel-multi-payment-gateway">
+            <h3>Laravel Multi Payment Gateway</h3>
+            <p>Unified abstraction over Stripe, Razorpay, PayPal, and more. Switch gateways with a config change — checkout code never changes. Pluggable driver architecture with built-in webhook signature verification.</p>
+            <p style="margin-top: 5px; font-size: 0.9em; color: #555;"><svg height="14" width="14" viewBox="0 0 16 16" style="vertical-align: text-bottom; margin-right: 4px;" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>https://github.com/codersandip/laravel-multi-payment-gateway</p>
+        </div>
+
+        <div class="project-item" data-repo="laravel-audit-pro">
+            <h3>Laravel Audit Pro</h3>
+            <p>Enterprise-grade Eloquent model auditing with field-level diffs, user & IP attribution, configurable retention, and one-click restore from audit log.</p>
+            <p style="margin-top: 5px; font-size: 0.9em; color: #555;"><svg height="14" width="14" viewBox="0 0 16 16" style="vertical-align: text-bottom; margin-right: 4px;" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>https://github.com/codersandip/laravel-audit-pro</p>
+        </div>
+
+        <div class="project-item" data-repo="Laravel-QR-Auth">
+            <h3>Laravel QR Auth</h3>
+            <p>Drop-in passwordless login via QR code scan — real-time auth using Pusher / Reverb, configurable token TTL, multi-device session binding.</p>
+            <p style="margin-top: 5px; font-size: 0.9em; color: #555;"><svg height="14" width="14" viewBox="0 0 16 16" style="vertical-align: text-bottom; margin-right: 4px;" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>https://github.com/codersandip/Laravel-QR-Auth</p>
+        </div>
+
+        <div class="project-item" data-repo="laravel-dynamic-settings">
+            <h3>Laravel Dynamic Settings</h3>
+            <p>Runtime app settings without redeploys — type-safe casts, auto-cached for zero query overhead, group/namespace support, perfect for feature flags & tenant config.</p>
+            <p style="margin-top: 5px; font-size: 0.9em; color: #555;"><svg height="14" width="14" viewBox="0 0 16 16" style="vertical-align: text-bottom; margin-right: 4px;" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>https://github.com/codersandip/laravel-dynamic-settings</p>
+        </div>
+
+        <div class="project-item" data-repo="cheque-printing-software">
+            <h3>Cheque Printing Software</h3>
+            <p>Multi-bank cheque printing solution with templates for 20+ Indian banks, amount-in-words conversion (Indian numbering), and pixel-perfect print alignment.</p>
+            <p style="margin-top: 5px; font-size: 0.9em; color: #555;"><svg height="14" width="14" viewBox="0 0 16 16" style="vertical-align: text-bottom; margin-right: 4px;" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>https://github.com/codersandip/cheque-printing-software</p>
+        </div>
+
+        <div class="project-item" data-repo="react-qr-code">
+            <h3>React QR Code</h3>
+            <p>Lightweight, zero-dependency QR code component for React — SVG output, customizable colors, size, and error correction. Tree-shakeable ESM build.</p>
+            <p style="margin-top: 5px; font-size: 0.9em; color: #555;"><svg height="14" width="14" viewBox="0 0 16 16" style="vertical-align: text-bottom; margin-right: 4px;" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>https://github.com/codersandip/react-qr-code</p>
         </div>
     </section>
 

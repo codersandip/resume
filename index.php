@@ -204,11 +204,12 @@
     <section>
         <h2>Achievements</h2>
         <ul>
-            <li>Reduced API response time by 40%</li>
-            <li>Reduced media storage usage by 50%</li>
-            <li>Published 7+ open-source Laravel packages</li>
-            <li>Built scalable REST APIs serving production workloads</li>
-            <li>Automated CI/CD pipelines reducing deployment effort</li>
+            <li>Improved API response time by up to 40% through query optimization, indexing, and backend refactoring.</li>
+            <li>Reduced media storage usage by 30 - 50% using automated image optimization workflows.</li>
+            <li>Published 7+ open-source Laravel packages focused on APIs, payments, auditing, and developer productivity.</li>
+            <li>Designed scalable backend architectures using asynchronous processing, caching strategies, and cloud-native deployment workflows.</li>
+            <li>Delivered production REST APIs across 5+ business domains, including vehicle services, education ERP, eLearning, insurance, and car care.</li>
+            <li>Automated CI/CD deployment workflows using GitHub Actions, reducing manual release effort and improving deployment consistency.</li>
         </ul>
     </section>
 
@@ -322,13 +323,10 @@
     <section>
         <h2>Education</h2>
         <div class="education-item">
-            <p><strong>Bachelor of Computer Engineering</strong> (Pursuing)<br>
-                Rajiv Gandhi College of Engineering, Pune<br>
-                Expected Graduation: 2027</p>
+            <p><strong>Bachelor of Computer Engineering</strong> (Pursuing) | Rajiv Gandhi College of Engineering, Pune | Expected Graduation: 2027</p>
         </div>
         <div class="education-item">
-            <p><strong>Diploma in Computer Engineering</strong> | 2020 - 2022<br>
-                Samarth Polytechnic Belhe, Pune | Percentage: 81.00%</p>
+            <p><strong>Diploma in Computer Engineering</strong> | Samarth Polytechnic Belhe, Pune | 2020 - 2022 | 81.00%</p>
         </div>
     </section>
 

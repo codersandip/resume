@@ -20,7 +20,7 @@ $dompdf = new Dompdf($options);
 $dompdf->loadHtml($html);
 $dompdf->setPaper('A4', 'portrait', true, null, 0, 0, 0, 0); // Set margin to 0
 $dompdf->render();
-
+echo $output = $dompdf->output();
 // Download PDF
 // $dompdf->stream("Sandip Baliram Tawhare - Resume.pdf", array("Attachment" => false));
 // return '';

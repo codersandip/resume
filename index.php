@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sandip Baliram Tawhare - Resume</title>
     <style>
-        * {
+        /* * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-        }
+        } */
         body {
             font-family: 'Arial', sans-serif;
             line-height: 1.6;
@@ -168,8 +168,8 @@
     <header>
         <h1>Sandip Baliram Tawhare</h1>
         <div class="contact-info"> <span>+91 9527849688</span> | <span><a href="mailto:sandiptahware18081998@gmail.com">sandiptahware18081998@gmail.com</a></span> | <span><a href="https://www.sandiptawhare.com" target="_blank">https://www.sandiptawhare.com</a></span> |
-            <span><a href="https://in.linkedin.com/in/sandip-tawhare-coder" target="_blank"><img src="https://in.linkedin.com/favicon.ico" style="width: 16px; height: 16px;"> sandip-tawhare-coder</a></span> |
-            <span><a href="https://github.com/codersandip" target="_blank">GitHub <img src="https://www.github.com/favicon.ico" style="width: 16px; height: 16px;"> codersandip</a></span><br><span>Betvasti, Nirgudsar, Ambegaon, Pune, Maharashtra - 412406</span> </div>
+            <span><a href="https://in.linkedin.com/in/sandip-tawhare-coder" target="_blank"><img src="https://resume.sandiptawhare.com/linkedin.png" style="width: 16px; height: 16px;"> sandip-tawhare-coder</a></span> |
+            <span><a href="https://github.com/codersandip" target="_blank">GitHub <img src="https://resume.sandiptawhare.com/github.png" style="width: 16px; height: 16px;"> codersandip</a></span><br><span>Betvasti, Nirgudsar, Ambegaon, Pune, Maharashtra - 412406</span> </div>
     </header>
     <section>
         <h2>Professional Summary</h2>

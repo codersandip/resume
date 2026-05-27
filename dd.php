@@ -1,7 +1,5 @@
 <?php 
 
-exec("php index.php", $output);
-file_put_contents('index.html', str_replace("   ", "", $output));
 exec("composer install", $output1);
 exec("php pdf.php", $output1);
 echo "Enter your commit message: ";

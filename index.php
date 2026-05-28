@@ -184,7 +184,7 @@
 
     <section>
         <h2>Professional Summary</h2>
-        <p>Senior Backend Engineer with <strong>7+ years</strong> of experience building scalable, high-performance web applications and APIs using <strong>Laravel, PHP, MySQL, Redis, and AWS cloud infrastructure</strong>. Experienced in microservices architecture, DevOps automation, CI/CD pipelines, payment gateway integrations, and system optimization. Active open-source contributor with multiple Laravel packages used by the developer community.</p>
+        <p>Senior Backend Engineer with <strong>7+ years</strong> of experience building scalable APIs, cloud-native applications, and high-performance backend systems using <strong>Laravel, PHP, Redis, MySQL, and AWS.</strong> Experienced in distributed systems, DevOps automation, CI/CD pipelines, payment integrations, and backend architecture optimization. Active open-source contributor with multiple Laravel packages focused on APIs, auditing, and developer productivity.</p>
     </section>
 
     <section>
@@ -210,6 +210,7 @@
             <li>Designed scalable backend architectures using asynchronous processing, caching strategies, and cloud-native deployment workflows.</li>
             <li>Delivered production REST APIs across 5+ business domains, including vehicle services, education ERP, eLearning, insurance, and car care.</li>
             <li>Automated CI/CD deployment workflows using GitHub Actions, reducing manual release effort and improving deployment consistency.</li>
+            <li>Mentored junior developers and contributed to backend engineering best practices.</li>
         </ul>
     </section>
 
@@ -217,11 +218,11 @@
         <h2>Core Skills</h2>
         <div class="skills-category">
             <strong>Backend:</strong>
-            <div class="skill-list-inline">PHP, Laravel, CodeIgniter, Node.js, Sails.js, REST APIs, Queues, Webhooks, Payment Gateways</div>
+            <div class="skill-list-inline">PHP 8+, Laravel, CodeIgniter, Node.js, Sails.js, REST APIs, Queues, Redis, Webhooks, Payment Gateways, Performance Optimization</div>
         </div>
         <div class="skills-category">
             <strong>Frontend:</strong>
-            <div class="skill-list-inline">JavaScript, React.js, Vue.js, HTML, CSS, Tailwind CSS</div>
+            <div class="skill-list-inline">JavaScript, React.js, Tailwind CSS</div>
         </div>
         <div class="skills-category">
             <strong>Databases &amp; Cache:</strong>
@@ -229,7 +230,7 @@
         </div>
         <div class="skills-category">
             <strong>Architecture &amp; Security:</strong>
-            <div class="skill-list-inline">SOLID, Design Patterns, Repository Pattern, Service Layer, Microservices, JWT, OAuth 2.0, API Security</div>
+            <div class="skill-list-inline">SOLID, Design Patterns, Repository Pattern, Service Layer, Microservices, Distributed Systems, Event-Driven Architecture, JWT, OAuth 2.0, API Security</div>
         </div>
         <div class="skills-category">
             <strong>Cloud &amp; DevOps:</strong>
@@ -301,13 +302,13 @@
         <h2>Featured Open Source Projects <a href="https://github.com/codersandip" target="_blank" style="font-size: 0.6em; font-weight: normal; text-decoration: none; color: #3498db;">(@codersandip)</a></h2>
         <div class="project-item" data-repo="laravel-api-toolkit">
             <h3>Laravel API Toolkit</h3>
-            <p>Production-ready API scaffolding for Laravel -- standardized JSON envelope, exception -&gt; HTTP mapper, query filters &amp; sorters, Sanctum-ready auth helpers.</p>
+            <p>Production-ready API scaffolding toolkit for scalable Laravel applications with standardized API responses, auth helpers, query filters, and exception handling.</p>
             <p class="project-link"><a href="https://github.com/codersandip/laravel-api-toolkit" target="_blank">https://github.com/codersandip/laravel-api-toolkit</a></p>
         </div>
 
         <div class="project-item" data-repo="laravel-multi-payment-gateway">
             <h3>Laravel Multi Payment Gateway</h3>
-            <p>Unified abstraction over Stripe, Razorpay, PayPal, and more. Switch gateways with a config change -- checkout code never changes. Pluggable driver architecture with built-in webhook signature verification.</p>
+            <p>Unified abstraction over Stripe, Razorpay, PayPal, and more. Switch gateways with a config change -- checkout code never changes. Pluggable driver architecture with built-in webhook signature verification. Used in scalable Laravel API and payment integration workflows.</p>
             <p class="project-link"><a href="https://github.com/codersandip/laravel-multi-payment-gateway" target="_blank">https://github.com/codersandip/laravel-multi-payment-gateway</a></p>
         </div>
 

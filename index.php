@@ -171,7 +171,7 @@
 <body>
     <header>
         <h1>Sandip Baliram Tawhare</h1>
-        <p class="headline">Senior Backend Engineer | Laravel / PHP | APIs, AWS &amp; DevOps</p>
+        <p class="headline">Senior Backend Engineer | Laravel/PHP | Distributed Systems | APIs | AWS | Performance Optimization</p>
         <div class="contact-info">
             <span>+91 9527849688</span>
             <span><a href="mailto:sandiptahware18081998@gmail.com">sandiptahware18081998@gmail.com</a></span>
@@ -204,7 +204,7 @@
     <section>
         <h2>Achievements</h2>
         <ul>
-            <li>Improved API response time by up to 40% through query optimization, indexing, and backend refactoring.</li>
+            <li>Optimized APIs handling 50K+ daily API requests across vehicle booking workflows by improving MySQL indexing, eager loading strategies, and Redis caching, reducing latency from 800ms to 300ms.</li>
             <li>Reduced media storage usage by 30 - 50% using automated image optimization workflows.</li>
             <li>Published 7+ open-source Laravel packages focused on APIs, payments, auditing, and developer productivity.</li>
             <li>Designed scalable backend architectures using asynchronous processing, caching strategies, and cloud-native deployment workflows.</li>
@@ -230,7 +230,7 @@
         </div>
         <div class="skills-category">
             <strong>Architecture &amp; Security:</strong>
-            <div class="skill-list-inline">SOLID, Design Patterns, Repository Pattern, Service Layer, Microservices, Distributed Systems, Event-Driven Architecture, JWT, OAuth 2.0, API Security</div>
+            <div class="skill-list-inline">SOLID Principles, Design Patterns, Repository Pattern, Service Layer Architecture, Event-driven processing, Distributed system fundamentals,  JWT, OAuth 2.0, API Security</div>
         </div>
         <div class="skills-category">
             <strong>Cloud &amp; DevOps:</strong>
